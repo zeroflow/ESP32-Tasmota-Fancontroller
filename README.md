@@ -2,9 +2,9 @@
 
 ## THIS MODULE HAS NOT YET BEEN BUILT, WORK IN PROGRESS
  
-4x PWM Fan Output (3 Pin Fan Control not supported)
-1x BME280 Header
-1x Spare Header (3V3, GND, 4x IO)
+* 4x PWM Fan Output (3 Pin Fan Control not supported)
+* 1x BME280 Header
+* 1x Spare Header (3V3, GND, 4x IO)
 
 ![Board Screenshot](ESP32_Tasmota_Fan.png)
 

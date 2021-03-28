@@ -518,7 +518,7 @@ U 1 1 605A1955
 P 1450 4600
 F 0 "H1" H 1550 4646 50  0000 L CNN
 F 1 "MountingHole" H 1550 4555 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 1450 4600 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1450 4600 50  0001 C CNN
 F 3 "~" H 1450 4600 50  0001 C CNN
 	1    1450 4600
 	1    0    0    -1  
@@ -529,7 +529,7 @@ U 1 1 605A32E8
 P 1450 4850
 F 0 "H2" H 1550 4896 50  0000 L CNN
 F 1 "MountingHole" H 1550 4805 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 1450 4850 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1450 4850 50  0001 C CNN
 F 3 "~" H 1450 4850 50  0001 C CNN
 	1    1450 4850
 	1    0    0    -1  
@@ -540,7 +540,7 @@ U 1 1 605A42F1
 P 1450 5100
 F 0 "H3" H 1550 5146 50  0000 L CNN
 F 1 "MountingHole" H 1550 5055 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 1450 5100 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1450 5100 50  0001 C CNN
 F 3 "~" H 1450 5100 50  0001 C CNN
 	1    1450 5100
 	1    0    0    -1  
@@ -551,7 +551,7 @@ U 1 1 605A52D3
 P 1450 5350
 F 0 "H4" H 1550 5396 50  0000 L CNN
 F 1 "MountingHole" H 1550 5305 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 1450 5350 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1450 5350 50  0001 C CNN
 F 3 "~" H 1450 5350 50  0001 C CNN
 	1    1450 5350
 	1    0    0    -1  
