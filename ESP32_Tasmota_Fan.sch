@@ -348,9 +348,9 @@ Text GLabel 10250 1350 0    50   Input ~ 0
 CSB
 Text GLabel 10250 1450 0    50   Input ~ 0
 SDO
-Text GLabel 4450 4050 0    50   Input ~ 0
+Text GLabel 4450 2250 0    50   Input ~ 0
 SCL
-Text GLabel 4450 3450 0    50   Input ~ 0
+Text GLabel 4450 4050 0    50   Input ~ 0
 SDA
 $Comp
 L Device:R_Small R1
@@ -567,9 +567,9 @@ Wire Wire Line
 NoConn ~ 4650 2350
 NoConn ~ 4650 2450
 Wire Wire Line
-	4450 4050 4650 4050
+	4450 2250 4650 2250
 Wire Wire Line
-	4450 3450 4650 3450
+	4450 4050 4650 4050
 $Comp
 L Device:LED D1
 U 1 1 605B5957
