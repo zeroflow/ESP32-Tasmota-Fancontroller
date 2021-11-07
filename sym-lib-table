@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name ESP32_mini)(type Legacy)(uri ${KIPRJMOD}/ESP32_mini_KiCad_Library-master/ESP32_mini.lib)(options "")(descr ""))
+  (lib (name ESP32-S2)(type Legacy)(uri C:/Users/Thomas/Documents/GitHub/ESP32-Tasmota-Fancontroller/ESP32-S2-master/ESP32-S2-WROOM/LIBS/esp32-s2.lib)(options "")(descr ""))
+  (lib (name CSE)(type Legacy)(uri C:/Users/Thomas/Documents/GitHub/ESP32-Tasmota-Fancontroller/ComponentSearchEngine/SamacSys_Parts.lib)(options "")(descr ""))
 )
