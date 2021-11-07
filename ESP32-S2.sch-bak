@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L ESP32-S2:esp32-s2-wroom U2
+L ESP32_Tasmota_Fan-rescue:esp32-s2-wroom-ESP32-S2 U2
 U 1 1 618CEA8A
 P 5700 3400
 F 0 "U2" H 5650 4615 50  0000 C CNN
