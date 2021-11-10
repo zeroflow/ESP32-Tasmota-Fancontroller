@@ -3,4 +3,5 @@
   (lib (name ESP32-S2)(type Legacy)(uri ${KIPRJMOD}/ESP32-S2-master/ESP32-S2-WROOM/LIBS/esp32-s2.lib)(options "")(descr ""))
   (lib (name CSE)(type Legacy)(uri ${KIPRJMOD}/ComponentSearchEngine/SamacSys_Parts.lib)(options "")(descr ""))
   (lib (name ESP32_Tasmota_Fan-rescue)(type Legacy)(uri ${KIPRJMOD}/ESP32_Tasmota_Fan-rescue.lib)(options "")(descr ""))
+  (lib (name Espressif)(type Legacy)(uri ${KIPRJMOD}/espressif-kicad-libraries-main/libraries/Espressif.lib)(options "")(descr ""))
 )
