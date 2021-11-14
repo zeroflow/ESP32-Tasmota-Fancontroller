@@ -27,12 +27,12 @@ $EndComp
 $Comp
 L power:+3V3 #PWR037
 U 1 1 618D1013
-P 2700 4950
-F 0 "#PWR037" H 2700 4800 50  0001 C CNN
-F 1 "+3V3" V 2715 5078 50  0000 L CNN
-F 2 "" H 2700 4950 50  0001 C CNN
-F 3 "" H 2700 4950 50  0001 C CNN
-	1    2700 4950
+P 2200 4950
+F 0 "#PWR037" H 2200 4800 50  0001 C CNN
+F 1 "+3V3" V 2215 5078 50  0000 L CNN
+F 2 "" H 2200 4950 50  0001 C CNN
+F 3 "" H 2200 4950 50  0001 C CNN
+	1    2200 4950
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -139,34 +139,34 @@ Wire Wire Line
 Wire Wire Line
 	3400 5050 3050 5050
 Wire Wire Line
-	2700 5050 2700 4950
+	2200 5050 2200 4950
 Text Label 2200 2650 0    50   ~ 0
 EN
 Text HLabel 6150 2750 2    50   Input ~ 0
 IO4
-Text HLabel 6150 3550 2    50   Input ~ 0
+Text HLabel 6250 3550 2    50   Input ~ 0
 IO23
-Text HLabel 6150 3850 2    50   Input ~ 0
+Text HLabel 6250 3850 2    50   Input ~ 0
 IO27
-Text HLabel 6150 3750 2    50   Input ~ 0
+Text HLabel 6250 3750 2    50   Input ~ 0
 IO26
-Text HLabel 6150 3650 2    50   Input ~ 0
+Text HLabel 6250 3650 2    50   Input ~ 0
 IO25
-Text HLabel 6150 3150 2    50   Input ~ 0
+Text HLabel 6250 3150 2    50   Input ~ 0
 IO18
-Text HLabel 6150 3250 2    50   Input ~ 0
+Text HLabel 6250 3250 2    50   Input ~ 0
 IO19
-Text HLabel 6150 3450 2    50   Input ~ 0
+Text HLabel 6250 3450 2    50   Input ~ 0
 IO22
-Text HLabel 6150 3350 2    50   Input ~ 0
+Text HLabel 6250 3350 2    50   Input ~ 0
 IO21
-Text HLabel 3400 3300 0    50   Input ~ 0
+Text HLabel 3300 3300 0    50   Input ~ 0
 I36
-Text HLabel 3400 3400 0    50   Input ~ 0
+Text HLabel 3300 3400 0    50   Input ~ 0
 I39
-Text HLabel 3400 3500 0    50   Input ~ 0
+Text HLabel 3300 3500 0    50   Input ~ 0
 I34
-Text HLabel 3400 3600 0    50   Input ~ 0
+Text HLabel 3300 3600 0    50   Input ~ 0
 I35
 Text HLabel 3400 3900 0    50   Input ~ 0
 IO32
@@ -277,7 +277,31 @@ F 3 "" H 3050 5400 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3050 5100 3050 5050
-Connection ~ 3050 5050
 Wire Wire Line
-	3050 5050 2700 5050
+	6150 3550 6250 3550
+Wire Wire Line
+	6150 3150 6250 3150
+Wire Wire Line
+	6150 3250 6250 3250
+Wire Wire Line
+	6150 3350 6250 3350
+Wire Wire Line
+	6150 3450 6250 3450
+Wire Wire Line
+	6150 3650 6250 3650
+Wire Wire Line
+	6150 3750 6250 3750
+Wire Wire Line
+	6150 3850 6250 3850
+Wire Wire Line
+	3300 3300 3400 3300
+Wire Wire Line
+	3300 3400 3400 3400
+Wire Wire Line
+	3300 3500 3400 3500
+Wire Wire Line
+	3300 3600 3400 3600
+Wire Wire Line
+	2200 5050 3050 5050
+Connection ~ 3050 5050
 $EndSCHEMATC
